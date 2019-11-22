@@ -22,9 +22,10 @@ ethash算法，每台看懂，感觉跟btc不一样， btc是整个block header�
 
 
 5、整个系统如何运行起来，公链启动流程设计
+p2p系统是整个系统的基础，以太坊的p2p利用了 Kademlia 协议，理论上网络更加高效， 而比特币相对更简单，用的是gossip协议，直接随机选取若干个节点转发数据，实际效果上比特币运行得也很稳定
 
 
 
-比特币的go版源代码
+比特币的go版源代
 
 https://github.com/btcsuite/btcd
