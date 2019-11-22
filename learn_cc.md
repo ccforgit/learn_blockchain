@@ -22,3 +22,9 @@ ethash算法，每台看懂，感觉跟btc不一样， btc是整个block header�
 
 
 5、整个系统如何运行起来，公链启动流程设计
+
+
+
+比特币的go版源代码
+
+https://github.com/btcsuite/btcd
